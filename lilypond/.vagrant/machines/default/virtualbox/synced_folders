@@ -1,0 +1,1 @@
+{"virtualbox":{"/Lilypond":{"guestpath":"/Lilypond","hostpath":"/Users/AKA/Lilypond","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/AKA/vagrants/lilypond","disabled":false,"__vagrantfile":true}}}
